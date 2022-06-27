@@ -1,0 +1,23 @@
+#-------------------------------#
+#       Online Donators         #
+#                               #
+#      Plugin by Durqznohh      #
+#    Support: Durqznohh#4718    #
+#-------------------------------#
+#
+#
+Permission: 'yourserver.highrollers'
+Help: '&5&lOnline Donators &8| &fPlugin by Durqznohh.'
+Reload:
+  Msg: '&aConfig reloaded'
+  Perm: 'yourserver.reload'
+Lines:
+  1: '&7'
+  2: '&e&lOnline Donators'
+  3: '&7'
+  # Here are the online donors
+  4: '&7'
+  5: '&fif you want to appear here, buy a rank in'
+  6: '&bstore.yourserver.com'
+  7: '&7'
+  # THE PLUGIN SUPPORTS ONLY 7 LINES

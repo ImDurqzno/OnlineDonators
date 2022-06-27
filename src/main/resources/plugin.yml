@@ -1,0 +1,10 @@
+name: OnlineDonators
+version: '${project.version}'
+main: me.durqznohh.donators.OnlineDonators
+api-version: 1.13
+commands:
+  onlinedonators:
+    description: Online donators
+    aliases: [donators]
+  odr:
+    description: Reload the config
